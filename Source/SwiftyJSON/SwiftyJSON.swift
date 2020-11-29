@@ -79,7 +79,7 @@ public enum Type: Int {
 
 // MARK: - JSON Base
 
-public struct JSON {
+public class JSON {
 
 	/**
 	 Creates a JSON using the data.
